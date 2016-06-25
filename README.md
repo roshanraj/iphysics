@@ -5,10 +5,12 @@ this project is part of lost project done for imagine cup 2007.
 
 ## Flow demonstration
 Write down the problem.
-[one](https://github.com/roshanraj/iphysics/blob/master/one.png)
+
+![one](https://raw.githubusercontent.com/roshanraj/iphysics/master/one.png)
 
 Press evaluate 
-[one](https://github.com/roshanraj/iphysics/blob/master/two.png)
+
+![one](https://raw.githubusercontent.com/roshanraj/iphysics/master/two.png)
 
 and here you get an step by step solution to the problem.
 
